@@ -1,0 +1,106 @@
+body { 
+    
+    padding-top: 0px;
+}
+
+.jumbotron {
+    
+    background-image: url(../cubes.png);
+    background-attachment: fixed;
+    min-height: 800px;
+    margin-top: -20px;
+    margin-bottom: -250px;
+}       
+
+.logo {
+            
+    position:static;
+    width: 10%;
+    margin-left: 75px;
+    margin-top: -10px;
+    padding: 3px 0px 1px 0px;
+}
+
+.navbar-brand {
+    
+    height: 100px;
+}
+
+.display-3 {
+    
+    margin-top: 110px;
+    margin-bottom: 10px;
+}
+
+
+.center-block {
+            
+    max-height: 80%;
+    max-width: 80%;
+    margin: 0 auto;
+    
+}
+
+.card-inverse {
+    
+    height: 400px;
+    background-color: #333;
+    border-color: #333;
+    color: white;
+    border: 1px dotted white;
+    padding: 15px;
+}
+
+.img-responsive {
+    
+    width: 75%;
+    margin: 0 auto;
+    position:relative;
+}
+
+
+.text-center {
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.alt1 {
+
+    margin-top: -30px;
+    padding-bottom: 20px;
+    background-color: #333;
+    min-height: 700px;
+    background-color: #333;
+    
+}
+
+.padding{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.alt2 {
+    background:grey;
+    min-height:750px;
+    color:#fff;
+    text-align:center;
+}
+
+.alt3 {
+    background-image: url(../cubes.png);
+    background-attachment: fixed;
+    min-height:100px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.footer {
+    margin:-top: -20px;
+    font-family: fantasy;
+    font-size: 20%;
+    text-decoration: none;
+}
+
